@@ -1,5 +1,10 @@
 # Max App
 
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/f9fbc8f9-67d5-4920-9820-eac3877fc15f" width="400">
+</div>
+
+# 
 **Max App** is a high-performance Android application built with a clean architecture approach. It leverages **Uncle Bob's Clean Code principles**, **MVI** and **MVVM** architectural patterns, and is crafted to deliver a smooth and responsive user experience. This app uses **Jetpack Compose** for UI development and **Hilt** for dependency injection, ensuring robust and scalable application architecture.
 
 ## 🚀 Features
